@@ -1,2 +1,9 @@
-# BookShelf
-A personalized digital bookshelf, containing a dataview of my books i have now in paper or in digital format, those i'd like to have, and their tracking, notes, etc.
+## Knowledge base
+
+Here's my personal digital knowledge-base, containing the books i read and my progress, notes over them, some useful links and scripts, articles, posts, scenarios on videos and work.
+
+## Table of contents:
+
+
+## Useful links
+1. https://quartz.jzhao.xyz/ - static site generator from markdown
